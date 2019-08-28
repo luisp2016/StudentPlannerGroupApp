@@ -1,0 +1,20 @@
+PODS:
+  - Eureka (5.0.0)
+  - MBCalendarKit (5.0.4)
+
+DEPENDENCIES:
+  - Eureka
+  - MBCalendarKit (~> 5.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Eureka
+    - MBCalendarKit
+
+SPEC CHECKSUMS:
+  Eureka: 0f64f477ec8ef6201c6fec143d60ff5c201cf654
+  MBCalendarKit: 4f7b4159bd97db9fd64301e8ce564f02c6513003
+
+PODFILE CHECKSUM: 2dc75b76d8d348f1de517a3da8c363e5bbf6b527
+
+COCOAPODS: 1.6.1

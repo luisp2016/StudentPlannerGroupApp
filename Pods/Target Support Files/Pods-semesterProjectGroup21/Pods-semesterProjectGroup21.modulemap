@@ -1,0 +1,6 @@
+framework module Pods_semesterProjectGroup21 {
+  umbrella header "Pods-semesterProjectGroup21-umbrella.h"
+
+  export *
+  module * { export * }
+}
